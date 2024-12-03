@@ -6,4 +6,4 @@ However, if you want to solve advent of code using the original input, just down
 ```
 input<x>_1.txt
 ```
-and replace <x> by the number of the day.
+and replace \<x\> by the number of the day.
